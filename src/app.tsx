@@ -1,10 +1,8 @@
-import React, { useState, useEffect } from 'react';
 import './App.css';
 
-interface AppProps {}
+import React from 'react';
 
-function App({}: AppProps) {
-
+function App(): JSX.Element {
   return (
     <div className="App">
       This starterpack is made for fast development and optimized build

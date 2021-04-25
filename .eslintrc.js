@@ -34,7 +34,7 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:prettier/recommended',
     'plugin:sonarjs/recommended',
-    // 'plugin:unicorn/recommended',
+    'plugin:unicorn/recommended',
     'plugin:security/recommended',
     'plugin:react-hooks/recommended'
   ],
@@ -46,7 +46,7 @@ module.exports = {
     'simple-import-sort/exports': 'error',
     'react/no-unescaped-entities': 'off',
     'sonarjs/no-duplicate-string': 'off',
-    '@typescript-eslint/ban-ts-comment': 'off'
-    // 'unicorn/filename-case': 'off'
+    '@typescript-eslint/ban-ts-comment': 'off',
+    'unicorn/filename-case': 'error'
   }
 };

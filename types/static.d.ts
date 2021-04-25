@@ -32,28 +32,28 @@ declare module '*.styl';
 
 /* IMAGES */
 declare module '*.svg' {
-  const ref: string;
-  export default ref;
+  const reference: string;
+  export default reference;
 }
 declare module '*.bmp' {
-  const ref: string;
-  export default ref;
+  const reference: string;
+  export default reference;
 }
 declare module '*.gif' {
-  const ref: string;
-  export default ref;
+  const reference: string;
+  export default reference;
 }
 declare module '*.jpg' {
-  const ref: string;
-  export default ref;
+  const reference: string;
+  export default reference;
 }
 declare module '*.jpeg' {
-  const ref: string;
-  export default ref;
+  const reference: string;
+  export default reference;
 }
 declare module '*.png' {
-  const ref: string;
-  export default ref;
+  const reference: string;
+  export default reference;
 }
 
 /* CUSTOM: ADD YOUR OWN HERE */
